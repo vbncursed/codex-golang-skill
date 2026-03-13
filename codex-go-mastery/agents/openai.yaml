@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Go Mastery"
+  short_description: "Go delivery, debugging, and review workflows for Codex"
+  default_prompt: "Use this skill to plan, implement, test, and review Go changes with production-safe defaults."
